@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile and Desktop Games<br>🌱 I’m currently learning Unity3D
+🔭 I’m currently working on Desktop and Mobile Games<br>🌱 I’m currently learning Unity3D
 
 
 ## 🌐 Socials:
